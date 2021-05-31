@@ -9,7 +9,7 @@
         "make"
     ],
     "STATIC_SERVER_ADDRESS": "211.116.223.195",
-    "PROJECT_KEY": "STATIC1",
+    "PROJECT_KEY": "BBM",
     "TOOLCHAIN_FILENAME": "parser.sconf",
     "PARSING": {
         "C": {
