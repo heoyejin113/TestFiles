@@ -1,7 +1,0 @@
-#include <stdio.h> /* [CS_IGNORE=MISRA_C_2012_DIR_01_01;일단 한글이랑 띄어쓰기랑 다123해봄.english.~!@#$%^&*()-_=+\|{}:"<>?;',./] */
-
-int main(int argc, char **argv)
-{
-printf("example!\n");
-return 0;
-}
