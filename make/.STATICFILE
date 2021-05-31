@@ -9,7 +9,7 @@
         "make"
     ],
     "STATIC_SERVER_ADDRESS": "211.116.223.195",
-    "PROJECT_KEY": "GGGG2",
+    "PROJECT_KEY": "STATIC1",
     "TOOLCHAIN_FILENAME": "parser.sconf",
     "PARSING": {
         "C": {

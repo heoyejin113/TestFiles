@@ -7,10 +7,10 @@
                 "-g",
                 "-c",
                 "-o",
-                "C:\\Users\\mac1\\Downloads\\make\\example.o",
-                "C:\\Users\\mac1\\Downloads\\make\\example.c"
+                "C:\\Users\\mac1\\Downloads\\git\\make\\example.o",
+                "C:\\Users\\mac1\\Downloads\\git\\make\\example.c"
             ],
-            "C:\\Users\\mac1\\Downloads\\make"
+            "C:\\Users\\mac1\\Downloads\\git\\make"
         ],
         "open": [
             "C:\\MinGW\\include\\_mingw.h",
@@ -21,7 +21,7 @@
             "C:\\MinGW\\include\\w32api.h",
             "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\stdarg.h",
             "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\stddef.h",
-            "C:\\Users\\mac1\\Downloads\\make\\example.c"
+            "C:\\Users\\mac1\\Downloads\\git\\make\\example.c"
         ]
     },
     "5": {
@@ -32,9 +32,9 @@
                 "-g",
                 "-o",
                 "example",
-                "C:\\Users\\mac1\\Downloads\\make\\example.o"
+                "C:\\Users\\mac1\\Downloads\\git\\make\\example.o"
             ],
-            "C:\\Users\\mac1\\Downloads\\make"
+            "C:\\Users\\mac1\\Downloads\\git\\make"
         ],
         "open": []
     }

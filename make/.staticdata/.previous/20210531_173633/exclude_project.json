@@ -3,7 +3,7 @@
     "modules": [
         {
             "name": "example",
-            "linkFlags": "\"-g\" \"-o\" \"example\" \"C:\\Users\\mac1\\Downloads\\make\\example.o\"",
+            "linkFlags": "\"-g\" \"-o\" \"example\" \"C:\\Users\\mac1\\Downloads\\git\\make\\example.o\"",
             "linkType": "execute",
             "sources": [],
             "dependencies": []
